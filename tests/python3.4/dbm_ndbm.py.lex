@@ -1,0 +1,8 @@
+(LIT "Provide the _dbm module as a dbm submodule.")
+(NEWLINE)
+(KEYWORD from)
+(ID "_dbm")
+(KEYWORD import)
+(PUNCT "*")
+(NEWLINE)
+(ENDMARKER)

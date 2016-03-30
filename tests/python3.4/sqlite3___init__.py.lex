@@ -1,0 +1,8 @@
+(KEYWORD from)
+(ID "sqlite3")
+(PUNCT ".")
+(ID "dbapi2")
+(KEYWORD import)
+(PUNCT "*")
+(NEWLINE)
+(ENDMARKER)

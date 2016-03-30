@@ -1,0 +1,7 @@
+(LIT "distutils\n\nThe main package for the Python Module Distribution Utilities.  Normally\nused from a setup script as\n\n   from distutils.core import setup\n\n   setup (...)\n")
+(NEWLINE)
+(ID "__version__")
+(PUNCT "=")
+(LIT "3.4.3")
+(NEWLINE)
+(ENDMARKER)

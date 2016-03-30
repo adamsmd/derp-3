@@ -1,0 +1,3 @@
+(LIT "wsgiref -- a WSGI (PEP 3333) Reference Library\n\nCurrent Contents:\n\n* util -- Miscellaneous useful functions and wrappers\n\n* headers -- Manage response headers\n\n* handlers -- base classes for server/gateway implementations\n\n* simple_server -- a simple BaseHTTPServer that supports WSGI\n\n* validate -- validation wrapper that sits between an app and a server\n  to detect errors in either\n\nTo-Do:\n\n* cgi_gateway -- Run WSGI apps under CGI (pending a deployment standard)\n\n* cgi_wrapper -- Run CGI apps under WSGI\n\n* router -- a simple middleware component that handles URL traversal\n")
+(NEWLINE)
+(ENDMARKER)

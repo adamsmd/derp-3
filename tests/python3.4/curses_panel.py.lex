@@ -1,0 +1,8 @@
+(LIT "curses.panel\n\nModule for using panels with curses.\n")
+(NEWLINE)
+(KEYWORD from)
+(ID "_curses_panel")
+(KEYWORD import)
+(PUNCT "*")
+(NEWLINE)
+(ENDMARKER)
